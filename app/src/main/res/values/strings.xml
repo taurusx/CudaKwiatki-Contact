@@ -1,0 +1,19 @@
+<resources
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name"><xliff:g>Cuda Kwiatki</xliff:g> - Contact</string>
+    //App fields:
+    <string name="florist">Florist\nCUDA KWIATKI</string>
+    <string name="fb_contact" translatable="false">facebook.com/CudaKwiatki</string>
+    <string name="web_address" translatable="false">www.cudakwiatki.pl</string>
+    <string name="email" translatable="false">karolina@cudakwiatki.pl</string>
+    <string name="phone" translatable="false">+48 987 654 321</string>
+    <string name="motto">We will make your flower dreams come true!</string>
+    <string name="order_flowers">Order flowers with delivery:</string>
+    //Images descriptions below:
+    <string name="main_photo_desc">Cuda Kwiatki - Contact</string>
+    <string name="logo_desc">Florist Cuda Kwiatki Logo</string>
+    <string name="web_icon_desc">Homepage icon</string>
+    <string name="fb_icon_desc">Facebook icon</string>
+    <string name="phone_icon_desc">Phone icon</string>
+    <string name="email_icon_desc">E-mail icon</string>
+</resources>

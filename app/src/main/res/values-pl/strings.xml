@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name"><xliff:g>Cuda Kwiatki</xliff:g> - Kontakt</string>
+    //App fields:
+    <string name="florist">Pracownia Florystyczna\nCUDA KWIATKI</string>
+    <string name="order_flowers">Zamów kwiaty z dostawą:</string>
+    <string name="motto">Spełnimy Twoje kwiatowe marzenia!</string>
+    //Images descriptions below:
+    <string name="main_photo_desc">Cuda Kwiatki - Kontakt</string>
+    <string name="logo_desc">CUDA KWIATKI</string>
+    <string name="fb_icon_desc">Ikonka Facebook</string>
+    <string name="web_icon_desc">Ikonka strony domowej</string>
+    <string name="phone_icon_desc">Ikonka telefonu</string>
+    <string name="email_icon_desc">Ikonka e-mail</string>
+</resources>
